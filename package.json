@@ -1,0 +1,16 @@
+{
+  "name": "mamamoo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mamamoo-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mamamoo-api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
